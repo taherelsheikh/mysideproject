@@ -1,0 +1,41 @@
+
+
+.maintitle {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 6.5em;
+    font-weight: 700;
+    color: #404040;
+    margin:0.2em ;
+
+}
+.mainsubdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:0 ;
+
+    /* justify-content: center; */
+
+}
+
+.mainsubtitle {
+    /* font-family: 'Nanum Gothic Coding', monospace; */
+    font-family: 'Source Code Pro', monospace;
+    font-size: 2em;
+    margin:0 ;
+    color: #404040;
+}
+
+.podcastIcon{
+    margin:2em ;
+
+}
+
+.names {
+    margin-top:2em ;
+    font-family: 'Source Code Pro', monospace;
+    /* font-weight: normal; */
+    font-size: 1em;
+    color: #404040;
+
+}
