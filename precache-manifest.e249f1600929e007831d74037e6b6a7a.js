@@ -4,27 +4,23 @@ self.__precacheManifest = [
     "url": "/mysideproject/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "73e9586637bc3c66a109a02ff0e941cc",
-    "url": "/mysideproject/static/media/appleIcon1.73e95866.svg"
-  },
-  {
     "revision": "94d0949ba541c1ba916c",
     "url": "/mysideproject/static/js/runtime~main.94d0949b.js"
   },
   {
-    "revision": "6cb93ed73b7621ce9010",
-    "url": "/mysideproject/static/js/main.6cb93ed7.chunk.js"
+    "revision": "efe71902a48d01a9ccfd",
+    "url": "/mysideproject/static/js/main.efe71902.chunk.js"
   },
   {
     "revision": "f739feb7d61c48a46bed",
     "url": "/mysideproject/static/js/1.f739feb7.chunk.js"
   },
   {
-    "revision": "6cb93ed73b7621ce9010",
-    "url": "/mysideproject/static/css/main.baa4cde7.chunk.css"
+    "revision": "efe71902a48d01a9ccfd",
+    "url": "/mysideproject/static/css/main.f4cd15a3.chunk.css"
   },
   {
-    "revision": "5cae46d4481d81b58509c94e5a4a4669",
+    "revision": "9562cd50f85963e3068f31ca82545c3f",
     "url": "/mysideproject/index.html"
   }
 ];
